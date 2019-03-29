@@ -1,0 +1,17 @@
+{
+  "name": "docker-testing",
+  "version": "0.0.1",
+  "description": "Simple node.js app for container linking testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "mario",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "4.16.4"
+  },
+  "devDependencies": {}
+}
